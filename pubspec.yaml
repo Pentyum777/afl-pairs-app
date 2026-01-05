@@ -17,9 +17,6 @@ dependencies:
   universal_html: ^2.2.4
   collection: ^1.18.0
 
-  # Searchable dropdowns (stable version)
-  dropdown_search: ^2.0.1
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
